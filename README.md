@@ -44,15 +44,13 @@
 
 <br clear="both">
 
-• Hai👋 im betabot18
-<div></div>
+• Hai👋 im betabot18 <div></div>
 • im rom Indonesia
 <div></div>
 • my hoby is nothing
 <div></div>
 
-<button>
-my age: {}
+src="https://img.shields.io/static/v1?
 
 
 
