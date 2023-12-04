@@ -44,6 +44,20 @@
 
 <br clear="both">
 
+fun main() {
+    println("About Me 🐾")
+    val name = "betabot18"
+    println("My name is $name")
+    
+    val age = 18
+    val gender = "Male"
+    
+    println("Age : $age Th") 
+    println("Gender : $gender")
+    println("Not Programmers 👨‍💻")
+}
+
+
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
