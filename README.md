@@ -44,17 +44,28 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
-</div>
-
-###
 
 
-• Hai👋 im betabot18 <div></div>
-• im rom Indonesia
-<div></div>
-• my hoby is nothing
+# Hi there! 👋 I'm [Your Name]
+
+Welcome to the musical corner of my GitHub profile! 🎶
+
+## 🎧 Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/[YOUR_SPOTIFY_USER_ID])
+
+## 🎵 My Playlist
+
+Check out some of my favorite tracks:
+
+1. [Song Title 1] - [Artist 1]
+2. [Song Title 2] - [Artist 2]
+3. [Song Title 3] - [Artist 3]
+
+Feel free to connect with me on [Spotify](https://open.spotify.com/user/[YOUR_SPOTIFY_USER_ID]) and share your favorite tunes!
+
+Let's vibe together! 🎸🔥
+
+
 
 
 <div align="center">
