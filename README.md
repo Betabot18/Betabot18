@@ -44,15 +44,12 @@
 
 <br clear="both">
 
-{
-    println
-    val age = 18
-    val gender = "Male"
-    
-    println("Age : $age Th") 
-    println("Gender : $gender")
-    println("Not Programmers 👨‍💻")
-}
+• Hai👋 im betabot18
+• im rom Indonesia
+• my hoby is nothing
+
+my age: {}
+
 
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
