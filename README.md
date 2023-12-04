@@ -44,14 +44,16 @@
 
 <br clear="both">
 
-Intro = {
-"Fullname": "Dimas Triyatno",
-"Nickname": "Im-Dims",
-"Status": "Nolep",
-"Address": "Bekasi, Jawa Barat, Indonesia",
-"Age": "....",
-"Birthday": "...."
+fun main() {
+    println
+    val age = 18
+    val gender = "Male"
+    
+    println("Age : $age Th") 
+    println("Gender : $gender")
+    println("Not Programmers 👨‍💻")
 }
+
 
 <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
