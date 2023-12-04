@@ -44,7 +44,7 @@
 
 <br clear="both">
 
-fun main() {
+{
     println
     val age = 18
     val gender = "Male"
