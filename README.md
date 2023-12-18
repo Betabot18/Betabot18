@@ -57,9 +57,9 @@ Welcome to the musical corner of my GitHub profile! 🎶
 
 Check out some of my favorite tracks:
 
-1. [Song Title 1] - [Artist 1]
-2. [Song Title 2] - [Artist 2]
-3. [Song Title 3] - [Artist 3]
+1. [Not you] - [Artist Alan walker]
+2. [Lily 3] -  [Artist Alan walker]
+3. [swift 2] - [Artist Taylor]
 
 Feel free to connect with me on [Spotify](https://open.spotify.com/user/[YOUR_SPOTIFY_USER_ID]) and share your favorite tunes!
 
