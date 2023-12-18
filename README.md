@@ -84,3 +84,30 @@ Let's vibe together! 🎸🔥
 </div>
 
 ###
+
+
+
+
+# Snake Game
+
+## Deskripsi
+Ini adalah implementasi sederhana dari permainan Snake menggunakan bahasa pemrograman [pilih bahasa]. Permainan ini dibuat untuk tujuan pembelajaran dan hiburan.
+
+## Cara Bermain
+1. [Instruksi pertama]
+2. [Instruksi kedua]
+3. [Instruksi ketiga]
+
+## Prasyarat
+Pastikan Anda telah menginstal [prasyarat yang diperlukan] sebelum menjalankan permainan.
+
+## Instalasi
+1. Clone repositori ini: `git clone https://github.com/nama_pengguna/nama_repositori.git`
+2. Masuk ke direktori permainan: `cd nama_repositori`
+3. Jalankan permainan: `[perintah untuk menjalankan permainan]`
+
+## Kontribusi
+Jika Anda ingin berkontribusi pada proyek ini, silakan buka *Issues* atau buat *Pull Request*. Kami sangat menyambut kontribusi dari komunitas.
+
+## Lisensi
+Proyek ini dilisensikan di bawah [jenis lisensi]. Lihat berkas `LICENSE` untuk informasi lebih lanjut.
